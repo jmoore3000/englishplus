@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
+/*navigation bar styling*/
 .header{
     background-color: #022b41;
     display: flex;
@@ -17,20 +18,35 @@
 }
 
 
-/* makes images responsive */
+/* rotating banner styling */
 img {
     max-width: 100%;
     }
     
-/* takes care of clearing the floats */
 #slideshow:after {
     content: "";
     display: table;
     clear: both;
     }
     
-/* hides the images not being shown */
 #slideshow img {
     float: left;
     margin: 0 -100% 0 0;
     }
+
+/* main content styling */
+.class1{
+    
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    
+}
+.content1{
+    display: flex;
+    gap: 20px;
+    margin-left: 100px;
+    margin-right: 200px;
+    
+}
