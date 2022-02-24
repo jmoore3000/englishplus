@@ -63,3 +63,18 @@ img {
     padding-bottom: 38px;
 }
 
+/*contact us section*/
+.contact{
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info{
+    display: flex;
+    gap: 20px;
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 38px;
+}
+
