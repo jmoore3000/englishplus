@@ -78,3 +78,10 @@ img {
     padding-bottom: 38px;
 }
 
+/*image rounded corners*/
+img{
+    border-style: hidden;
+    border-width: 5px;
+    border-radius: 8px;
+}
+
